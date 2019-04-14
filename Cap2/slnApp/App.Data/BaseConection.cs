@@ -9,7 +9,7 @@ namespace App.Data
     public class BaseConection
     {
 
-        public string ConnecteionString
+        public string ConnectionString
         {
             get
             {
