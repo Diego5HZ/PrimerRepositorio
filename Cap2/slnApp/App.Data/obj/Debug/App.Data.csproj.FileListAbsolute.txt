@@ -13,3 +13,5 @@ C:\GitHub\PrimerRepositorio\Cap2\slnApp\App.Data\obj\Debug\App.Data.csproj.CoreC
 C:\GitHub\PrimerRepositorio\Cap2\slnApp\App.Data\obj\Debug\App.Data.csproj.CopyComplete
 C:\GitHub\PrimerRepositorio\Cap2\slnApp\App.Data\obj\Debug\App.Data.dll
 C:\GitHub\PrimerRepositorio\Cap2\slnApp\App.Data\obj\Debug\App.Data.pdb
+C:\GitHub\PrimerRepositorio\Cap2\slnApp\App.Data\bin\Debug\Dapper.dll
+C:\GitHub\PrimerRepositorio\Cap2\slnApp\App.Data\bin\Debug\Dapper.xml

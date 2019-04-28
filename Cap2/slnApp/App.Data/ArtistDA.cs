@@ -101,6 +101,75 @@ namespace App.Data
                 }
             }
             return result;
-        }/*Para hacer paso a paso pon punto rojo y en la cosa de prueba dar depurar*/
+        }
+        /*Para hacer paso a paso pon punto rojo y en la cosa de prueba dar depurar*/
+
+        public int Insert(Artista entity)
+        {
+            var result = 0;
+            using (IDbConnection cn = new SqlConnection
+                (this.ConnectionString))
+            {
+                cn.Open();
+
+                IDbCommand cmd = new SqlCommand("usp_InsertArtist");
+                cmd.Connection = cn;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Add(
+
+                    new SqlParameter("@pName", entity.Name)
+                    );
+
+                result = Convert.ToInt32(cmd.ExecuteScalar());
+            }
+            return result;
+        }
+
+        public int Update(Artista entity)
+        {
+            var result = 0;
+            using (IDbConnection cn = new SqlConnection
+                (this.ConnectionString))
+            {
+                cn.Open();
+
+                IDbCommand cmd = new SqlCommand("usp_UpdateArtist");
+                cmd.Connection = cn;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Add(
+
+                    new SqlParameter("@pName", entity.Name)
+                    );
+                cmd.Parameters.Add(
+
+                    new SqlParameter("@pId", entity.ArtistId)
+                    );
+
+                result = cmd.ExecuteNonQuery();
+            }
+            return result;
+        }
+
+        public int Delete(int id)
+        {
+            var result = 0;
+            using (IDbConnection cn = new SqlConnection
+                (this.ConnectionString))
+            {
+                cn.Open();
+
+                IDbCommand cmd = new SqlCommand("usp_DeleteArtist");
+                cmd.Connection = cn;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Add(
+
+                    new SqlParameter("@pId",id)
+                    );
+
+                result = cmd.ExecuteNonQuery();
+            }
+            return result;
+        }
     }
+
 }
