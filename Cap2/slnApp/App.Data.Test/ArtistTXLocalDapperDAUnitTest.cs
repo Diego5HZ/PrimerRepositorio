@@ -30,7 +30,7 @@ namespace App.Data.Test
         public void Get()
         {
             var da = new ArtistTXLocalDapperDA();
-            var entity = da.Get(10);
+            var entity = da.Get(8);
 
             Assert.IsTrue(entity.ArtistId >0);
         }

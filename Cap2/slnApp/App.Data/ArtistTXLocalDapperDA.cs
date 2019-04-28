@@ -36,12 +36,14 @@ namespace App.Data
             var sql = "Select * from Artist where ArtistId = @paramID";
                     //$"Select * from Artist where ArtistId = {id}  <-- hazlo y te hackean :D"
 
-            using (IDbConnection cn = new SqlConnection(this.ConnectionString))
+            using (IDbConnection cn = new SqlConnection
+                (this.ConnectionString))
             {
-                result = cn.QueryFirstOrDefault(sql, new { paramID = id });
+                result = cn.QueryFirstOrDefault<Artista>(sql,
+                    new { paramID = id });
             }
 
-                return result;
+            return result;
         }
 
         public List<Artista> GetAllSP(string filterByName = "")

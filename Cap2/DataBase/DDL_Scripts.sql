@@ -59,3 +59,4 @@ BEGIN
 END
 GO	
 
+SELECT * FROM Artist ORDER BY ArtistId desc
