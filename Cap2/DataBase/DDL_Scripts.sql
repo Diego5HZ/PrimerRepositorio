@@ -60,3 +60,56 @@ END
 GO	
 
 SELECT * FROM Artist ORDER BY ArtistId desc
+Go
+
+CREATE PROCEDURE  usp_InsertInvoice
+(
+	@CustomerId INT,
+	@InvoiceDate DATETIME,
+	@BillingAddress NVARCHAR(70),
+	@BillingCity NVARCHAR (40),
+	@BillingState NVARCHAR(40),
+	@BillingCountry NVARCHAR(40),
+	@BillingPostalCode NVARCHAR(10),
+	@Total NUMERIC (10,2)
+)
+AS
+BEGIN
+	INSERT INTO Invoice(
+		CustomerId, InvoiceDate, BillingAddress, 
+		BillingCity, BillingState, BillingCountry, 
+		BillingPostalCode, Total
+	)
+	VALUES(@CustomerId, @InvoiceDate, @BillingAddress, 
+		@BillingCity, @BillingState, @BillingCountry, 
+		@BillingPostalCode, @Total)
+
+	SELECT SCOPE_IDENTITY()
+
+END
+GO
+
+CREATE PROCEDURE usp_InsertInvoiceLine
+(
+	@InvoiceId INT,
+	@TrackId INT,
+	@UnitPrice NUMERIC (10,2), 
+	@Quantity INT
+)
+AS
+BEGIN
+	
+	INSERT INTO InvoiceLine
+	(
+	InvoiceId, TrackId,
+	UnitPrice, Quantity
+	)
+	VALUES(
+	@InvoiceId, @TrackId,
+	@UnitPrice, @Quantity
+	)
+END
+GO
+
+SELECT * FROM Invoice with (nolock)
+SELECT * FROM InvoiceLine with (nolock)

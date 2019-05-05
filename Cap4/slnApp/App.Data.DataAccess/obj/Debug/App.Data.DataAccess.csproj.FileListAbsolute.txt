@@ -1,0 +1,14 @@
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll.config
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

@@ -53,7 +53,7 @@ namespace App.Data.Test
             artist.ArtistId = 284;
             var registrosAfectados = da.Update(artist);
 
-            Assert.IsTrue(registrosAfectados > 0, "El nombre del Artista ya existe");
+            Assert.IsTrue(registrosAfectados, "El nombre del Artista ya existe");
         }
         [TestMethod]
         public void DeleteSP()

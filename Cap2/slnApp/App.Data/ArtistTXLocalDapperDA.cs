@@ -72,27 +72,27 @@ namespace App.Data
             return result;
         }
 
-        public int Update(Artista entity)
+        public bool Update(Artista entity)
         {
-            var result = 0;
+            var result = false;
             using (IDbConnection cn = new SqlConnection
                 (this.ConnectionString))
             {
                 result = cn.Execute("usp_UpdateArtist", new { pName = entity.Name, pId = entity.ArtistId },
-                    commandType: CommandType.StoredProcedure);
+                    commandType: CommandType.StoredProcedure) > 0;
 
             }
             return result;
         }
 
-        public int Delete(int id)
+        public bool Delete(int id)
         {
-            var result = 0;
+            var result = false;
             using (IDbConnection cn = new SqlConnection
                 (this.ConnectionString))
             {
                 result = cn.Execute("ups_DeleteArtist", new { pId =id },
-                    commandType: CommandType.StoredProcedure);
+                    commandType: CommandType.StoredProcedure) > 0;
             }
             return result;
         }
