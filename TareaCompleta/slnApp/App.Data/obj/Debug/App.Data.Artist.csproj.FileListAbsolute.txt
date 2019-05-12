@@ -1,0 +1,11 @@
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\bin\Debug\App.Data.dll
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\bin\Debug\App.Data.pdb
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\bin\Debug\App.Entities.dll
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\bin\Debug\Dapper.dll
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\bin\Debug\App.Entities.pdb
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\bin\Debug\Dapper.xml
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\obj\Debug\App.Data.Artist.csprojAssemblyReference.cache
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\obj\Debug\App.Data.Artist.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\obj\Debug\App.Data.Artist.csproj.CopyComplete
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\obj\Debug\App.Data.dll
+C:\Users\Diego\Downloads\PrimerRepositorio-master\Cap2\slnApp\App.Data\obj\Debug\App.Data.pdb
