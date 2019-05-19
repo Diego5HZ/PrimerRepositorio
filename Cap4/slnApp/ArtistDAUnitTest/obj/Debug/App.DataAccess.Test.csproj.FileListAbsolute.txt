@@ -25,3 +25,5 @@ C:\GitHub\PrimerRepositorio\Cap4\slnApp\ArtistDAUnitTest\obj\Debug\App.DataAcces
 C:\GitHub\PrimerRepositorio\Cap4\slnApp\ArtistDAUnitTest\obj\Debug\App.DataAccess.Test.csproj.CopyComplete
 C:\GitHub\PrimerRepositorio\Cap4\slnApp\ArtistDAUnitTest\obj\Debug\ArtistDAUnitTest.dll
 C:\GitHub\PrimerRepositorio\Cap4\slnApp\ArtistDAUnitTest\obj\Debug\ArtistDAUnitTest.pdb
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\ArtistDAUnitTest\bin\Debug\App.Entities.Queries.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\ArtistDAUnitTest\bin\Debug\App.Entities.Queries.pdb

@@ -12,3 +12,5 @@ C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.D
 C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
 C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
 C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.dll
+C:\GitHub\PrimerRepositorio\Cap4\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.pdb
