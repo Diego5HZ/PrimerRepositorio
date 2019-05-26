@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlbumDA.cs" />
     <Compile Include="ArtistTXDistribuidaDA.cs" />
     <Compile Include="ArtistTXDistDapperDA.cs" />
     <Compile Include="ArtistTXLocalDapperDA.cs" />

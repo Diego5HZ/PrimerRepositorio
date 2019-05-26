@@ -72,7 +72,8 @@ namespace App.Data
             var result = new List<Artista>();
             var sql = "usp_GetAll";
 
-            using (IDbConnection cn = new SqlConnection(this.ConnectionString))
+            using (IDbConnection cn = new SqlConnection
+                (this.ConnectionString))
             {
                 IDbCommand cmd = new SqlCommand(sql);
                 /*Indicar que ahora es un procedimiento almacenado*/
@@ -141,7 +142,6 @@ namespace App.Data
                     new SqlParameter("@pName", entity.Name)
                     );
                 cmd.Parameters.Add(
-
                     new SqlParameter("@pId", entity.ArtistId)
                     );
 

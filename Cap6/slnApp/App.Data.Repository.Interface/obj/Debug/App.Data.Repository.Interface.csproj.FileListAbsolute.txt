@@ -1,0 +1,9 @@
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\bin\Debug\App.Data.Repository.Interface.dll
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\bin\Debug\App.Data.Repository.Interface.pdb
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Base.dll
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csprojAssemblyReference.cache
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CopyComplete
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.dll
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.pdb

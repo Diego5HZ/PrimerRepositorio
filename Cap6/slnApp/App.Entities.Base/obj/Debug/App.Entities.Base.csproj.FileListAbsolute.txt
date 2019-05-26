@@ -1,0 +1,12 @@
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

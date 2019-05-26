@@ -1,6 +1,19 @@
 EXEC usp_GetAll 'AERO%'
 go
 
+Alter PROCEDURE usp_GetAlbum
+(
+	@paramID INT
+)
+
+AS
+	BEGIN
+	SELECT * FROM Album
+	WHERE AlbumId = @paramID
+	END
+GO
+
+
 CREATE PROCEDURE usp_GetAll_Album
 (
 	@filterByName NVARCHAR(100)
@@ -24,29 +37,29 @@ AS
 		WHERE NAME like @filterByName
 	END
 GO
+
 --Create or Alter
-alter PROCEDURE usp_InsertAlbum
-@pName NVARCHAR(160),
-@pArtist NVARCHAR(120)
+CREATE PROCEDURE Insert_Album
+(
+	@pName	NVARCHAR(160),
+	@pArtistId INT
+)
 AS
-BEGIN
-	
-	IF (NOT EXISTS(SELECT AlbumId FROM Album WHERE TITLE = @pName))
 	BEGIN
-		INSERT INTO Album(Title)
-		VALUES (@pName)
-		SELECT SCOPE_IDENTITY()
-		INSERT INTO Artist(NAME)
-		VALUES (@pArtist)
+	IF NOT EXISTS(SELECT AlbumId FROM Album WHERE TITLE = @pName)
+	BEGIN
+		INSERT INTO Album(TITLE, ArtistId)
+		VALUES (@pName, @pArtistId)
 		SELECT SCOPE_IDENTITY()
 	END
-	ELSE
+	ELSE 
 	BEGIN
 		SELECT 0
 	END
-
 END
 GO
+
+SELECT * FROM Album 
 
 CREATE PROCEDURE usp_InsertGenre
 @pName NVARCHAR(120)

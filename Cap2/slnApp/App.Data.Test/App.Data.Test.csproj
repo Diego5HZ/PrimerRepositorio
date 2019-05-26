@@ -55,6 +55,7 @@
     <Compile Include="ArtistDAUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="InvoiceUnitTest.cs" />
+    <Compile Include="AlbumDAUnitTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

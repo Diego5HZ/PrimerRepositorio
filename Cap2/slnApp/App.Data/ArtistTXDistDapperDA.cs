@@ -69,7 +69,7 @@ namespace App.Data
                 using (IDbConnection cn = new SqlConnection(this.ConnectionString))
                     try
                     {
-                        {
+                        {   
                             result = cn.ExecuteScalar<int>("usp_InsertArtist", new { pName = entity.Name },
                                 commandType: CommandType.StoredProcedure);
 
