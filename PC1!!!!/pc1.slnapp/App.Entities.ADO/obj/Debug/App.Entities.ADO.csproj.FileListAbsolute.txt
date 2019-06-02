@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\pc1.slnapp\App.Entities.ADO\bin\Debug\App.Entities.ADO.dll
+C:\Users\Diego\source\repos\pc1.slnapp\App.Entities.ADO\bin\Debug\App.Entities.ADO.pdb
+C:\Users\Diego\source\repos\pc1.slnapp\App.Entities.ADO\obj\Debug\App.Entities.ADO.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\pc1.slnapp\App.Entities.ADO\obj\Debug\App.Entities.ADO.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\pc1.slnapp\App.Entities.ADO\obj\Debug\App.Entities.ADO.dll
+C:\Users\Diego\source\repos\pc1.slnapp\App.Entities.ADO\obj\Debug\App.Entities.ADO.pdb
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.ADO\bin\Debug\App.Entities.ADO.dll
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.ADO\bin\Debug\App.Entities.ADO.pdb
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.ADO\obj\Debug\App.Entities.ADO.csprojAssemblyReference.cache
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.ADO\obj\Debug\App.Entities.ADO.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.ADO\obj\Debug\App.Entities.ADO.dll
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.ADO\obj\Debug\App.Entities.ADO.pdb

@@ -1,0 +1,12 @@
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\bin\Debug\App.Entities.EntityFramework.dll.config
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\bin\Debug\App.Entities.EntityFramework.dll
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\bin\Debug\App.Entities.EntityFramework.pdb
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\obj\Debug\App.Entities.EntityFramework.csprojAssemblyReference.cache
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\obj\Debug\App.Entities.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\obj\Debug\App.Entities.EntityFramework.csproj.CopyComplete
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\obj\Debug\App.Entities.EntityFramework.dll
+C:\Users\EXTENSION\source\repos\PrimerRepositorio-master\PC1!!!!\pc1.slnapp\App.Entities.EntityFramework\obj\Debug\App.Entities.EntityFramework.pdb

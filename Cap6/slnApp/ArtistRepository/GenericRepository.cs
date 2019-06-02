@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 namespace App.Data.Repository
 {
     public class GenericRepository<TEntity>:IGenericRepository<TEntity>
-
         where TEntity:class
     {
         protected readonly DbContext _context;
@@ -22,7 +21,6 @@ namespace App.Data.Repository
         public bool Add(TEntity entity)
         {
             _context.Set<TEntity>().Add(entity);
-           
             return true;
         }
 

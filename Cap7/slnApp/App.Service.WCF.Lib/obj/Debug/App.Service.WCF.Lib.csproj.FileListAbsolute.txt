@@ -1,0 +1,7 @@
+C:\GitHub\PrimerRepositorio\Cap7\slnApp\App.Service.WCF.Lib\bin\Debug\App.Service.WCF.Lib.dll.config
+C:\GitHub\PrimerRepositorio\Cap7\slnApp\App.Service.WCF.Lib\bin\Debug\App.Service.WCF.Lib.dll
+C:\GitHub\PrimerRepositorio\Cap7\slnApp\App.Service.WCF.Lib\bin\Debug\App.Service.WCF.Lib.pdb
+C:\GitHub\PrimerRepositorio\Cap7\slnApp\App.Service.WCF.Lib\obj\Debug\App.Service.WCF.Lib.csprojAssemblyReference.cache
+C:\GitHub\PrimerRepositorio\Cap7\slnApp\App.Service.WCF.Lib\obj\Debug\App.Service.WCF.Lib.csproj.CoreCompileInputs.cache
+C:\GitHub\PrimerRepositorio\Cap7\slnApp\App.Service.WCF.Lib\obj\Debug\App.Service.WCF.Lib.dll
+C:\GitHub\PrimerRepositorio\Cap7\slnApp\App.Service.WCF.Lib\obj\Debug\App.Service.WCF.Lib.pdb

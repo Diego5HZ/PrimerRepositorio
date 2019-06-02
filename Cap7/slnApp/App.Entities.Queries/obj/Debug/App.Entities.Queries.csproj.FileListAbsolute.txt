@@ -1,0 +1,12 @@
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.dll
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.pdb
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csprojAssemblyReference.cache
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
+C:\VS2017JTG\github\vs2017-2019-03\Cap04\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.dll
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.pdb
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csprojAssemblyReference.cache
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
+C:\GitHub\PrimerRepositorio\Cap6\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb
