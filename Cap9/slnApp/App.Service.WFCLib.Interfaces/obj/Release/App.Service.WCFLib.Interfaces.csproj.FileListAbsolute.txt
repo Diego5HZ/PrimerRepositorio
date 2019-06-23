@@ -1,0 +1,9 @@
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\bin\Release\App.Service.WFCLib.Interfaces.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\bin\Release\App.Service.WFCLib.Interfaces.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\bin\Release\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\bin\Release\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Release\App.Service.WCFLib.Interfaces.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Release\App.Service.WCFLib.Interfaces.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Release\App.Service.WCFLib.Interfaces.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Release\App.Service.WFCLib.Interfaces.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Release\App.Service.WFCLib.Interfaces.pdb

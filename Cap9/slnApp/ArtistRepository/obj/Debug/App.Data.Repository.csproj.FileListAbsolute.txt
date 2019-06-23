@@ -61,3 +61,24 @@ C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\ArtistReposito
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\ArtistRepository\bin\Debug\EntityFramework.xml
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\ArtistRepository\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\ArtistRepository\obj\Debug\App.Data.Repository.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\ArtistRepository.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\ArtistRepository.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\ArtistRepository.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Data.DataAccess.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Data.Repository.Interface.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Entities.Queries.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\EntityFramework.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Data.DataAccess.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Data.DataAccess.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Data.Repository.Interface.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\App.Entities.Queries.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\EntityFramework.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\obj\Debug\App.Data.Repository.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\obj\Debug\App.Data.Repository.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\obj\Debug\App.Data.Repository.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\obj\Debug\ArtistRepository.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\ArtistRepository\obj\Debug\ArtistRepository.pdb

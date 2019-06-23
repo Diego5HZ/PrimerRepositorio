@@ -16,3 +16,9 @@ C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Entities.B
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

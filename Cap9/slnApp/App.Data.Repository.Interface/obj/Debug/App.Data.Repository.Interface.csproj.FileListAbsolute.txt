@@ -31,3 +31,14 @@ C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Data.Repos
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CopyComplete
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.dll
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Debug\App.Data.Repository.Interface.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Debug\App.Data.Repository.Interface.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Queries.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Queries.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.pdb

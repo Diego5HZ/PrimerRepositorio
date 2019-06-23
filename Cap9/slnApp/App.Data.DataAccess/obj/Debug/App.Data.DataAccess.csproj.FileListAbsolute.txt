@@ -62,3 +62,19 @@ C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Data.DataA
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
 C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
