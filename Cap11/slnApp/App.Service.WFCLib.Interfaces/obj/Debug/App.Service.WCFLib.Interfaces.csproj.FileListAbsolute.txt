@@ -1,0 +1,18 @@
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\bin\Debug\App.Service.WFCLib.Interfaces.dll
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\bin\Debug\App.Service.WFCLib.Interfaces.pdb
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csproj.CopyComplete
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WFCLib.Interfaces.dll
+C:\Users\EXTENSION\Downloads\PrimerRepositorio-master\Cap7\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WFCLib.Interfaces.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\bin\Debug\App.Service.WFCLib.Interfaces.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\bin\Debug\App.Service.WFCLib.Interfaces.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WFCLib.Interfaces.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Service.WFCLib.Interfaces\obj\Debug\App.Service.WFCLib.Interfaces.pdb

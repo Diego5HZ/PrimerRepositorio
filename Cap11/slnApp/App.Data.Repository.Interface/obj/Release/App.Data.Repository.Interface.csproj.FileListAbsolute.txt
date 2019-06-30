@@ -1,0 +1,11 @@
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Release\App.Data.Repository.Interface.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Release\App.Data.Repository.Interface.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Release\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Release\App.Entities.Queries.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Release\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\bin\Release\App.Entities.Queries.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Release\App.Data.Repository.Interface.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Release\App.Data.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Release\App.Data.Repository.Interface.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Release\App.Data.Repository.Interface.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Data.Repository.Interface\obj\Release\App.Data.Repository.Interface.pdb
