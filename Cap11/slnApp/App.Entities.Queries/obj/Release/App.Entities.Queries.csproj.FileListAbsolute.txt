@@ -1,6 +1,0 @@
-C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Queries\bin\Release\App.Entities.Queries.dll
-C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Queries\bin\Release\App.Entities.Queries.pdb
-C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.csprojAssemblyReference.cache
-C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.csproj.CoreCompileInputs.cache
-C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.dll
-C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap9\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.pdb
