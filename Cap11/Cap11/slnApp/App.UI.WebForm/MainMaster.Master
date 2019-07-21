@@ -52,6 +52,8 @@
   <body class="skin-blue">
 
     <form runat="server">
+             <asp:ScriptManager ID="ScriptManager" runat="server">
+      </asp:ScriptManager>
 
            <div class="wrapper">
       

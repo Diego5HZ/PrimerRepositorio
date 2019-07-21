@@ -100,3 +100,37 @@ D:\VSDeveloper\src\vs2017-2019-03\Cap09\slnApp\App.Data.RepositoryTest\obj\Debug
 D:\VSDeveloper\src\vs2017-2019-03\Cap09\slnApp\App.Data.RepositoryTest\obj\Debug\App.Data.RepositoryTest.csproj.CopyComplete
 D:\VSDeveloper\src\vs2017-2019-03\Cap09\slnApp\App.Data.RepositoryTest\obj\Debug\App.Data.RepositoryTest.dll
 D:\VSDeveloper\src\vs2017-2019-03\Cap09\slnApp\App.Data.RepositoryTest\obj\Debug\App.Data.RepositoryTest.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.RepositoryTest.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.RepositoryTest.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.RepositoryTest.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.DataAccess.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.Repository.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.Repository.Interface.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Entities.Queries.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\EntityFramework.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.DataAccess.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.DataAccess.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.Repository.Interface.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.Repository.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Data.Repository.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\App.Entities.Queries.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\EntityFramework.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\obj\Debug\App.Data.RepositoryTest.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\obj\Debug\App.Data.RepositoryTest.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\obj\Debug\App.Data.RepositoryTest.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\obj\Debug\App.Data.RepositoryTest.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Data.RepositoryTest\obj\Debug\App.Data.RepositoryTest.pdb

@@ -46,6 +46,7 @@
     <Compile Include="IGenericRepository.cs" />
     <Compile Include="IArtistRepository.cs" />
     <Compile Include="IGenreRepository.cs" />
+    <Compile Include="IInvoiceRepository.cs" />
     <Compile Include="IMediaTypeRepository.cs" />
     <Compile Include="ITrackRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

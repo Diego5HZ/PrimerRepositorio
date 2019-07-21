@@ -50,3 +50,29 @@ D:\VSDeveloper\src\vs2017-2019-03\Cap09\slnApp\App.Service.WCFLib\obj\Debug\App.
 D:\VSDeveloper\src\vs2017-2019-03\Cap09\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.csproj.CopyComplete
 D:\VSDeveloper\src\vs2017-2019-03\Cap09\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.dll
 D:\VSDeveloper\src\vs2017-2019-03\Cap09\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Data.Repository.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Data.Repository.Interface.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Entities.Base.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Entities.Queries.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.Interfaces.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\EntityFramework.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Data.DataAccess.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Data.Repository.Interface.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Data.Repository.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Data.Repository.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Entities.Base.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Entities.Queries.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.Interfaces.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\EntityFramework.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Data.DataAccess.pdb
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\bin\Debug\App.Data.DataAccess.dll.config
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.csprojAssemblyReference.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.csproj.CoreCompileInputs.cache
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.csproj.CopyComplete
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.dll
+C:\GitHub\Primer Repositorio\PrimerRepositorio\Cap11\Cap11\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.pdb
